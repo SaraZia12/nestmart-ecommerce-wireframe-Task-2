@@ -100,8 +100,6 @@ This project follows low-fidelity wireframing principles:
 ## Tools Used
 
 * Figma
-* Wireframing Techniques
-* UI/UX Design Principles
 
 ---
 
